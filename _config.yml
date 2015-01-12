@@ -88,6 +88,6 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  branch: master
+  branch: [branch]
   repo: https://github.com/ryanjustin/blog.git
   message: "site update"
