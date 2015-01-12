@@ -4,6 +4,6 @@ tags:
 ---
 ##Some cool Resources for servers
 
-*<a href="orchestrate.io">Orchestrate</a>
-*<a href="digitalocean.com">Digital Ocean</a>
-*<a href="bitnami.com">Bitnami</a>
+*[Orchestrate](https://orchestrate.io)
+*<a href="https://digitalocean.com">Digital Ocean</a>
+*<a href="https://bitnami.com/">Bitnami</a>
