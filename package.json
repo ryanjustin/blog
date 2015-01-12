@@ -3,8 +3,9 @@
   "version": "2.8.3",
   "private": true,
   "dependencies": {
+    "hexo-deployer-ftp": "0.0.2",
     "hexo-renderer-ejs": "*",
-    "hexo-renderer-stylus": "*",
-    "hexo-renderer-marked": "*"
+    "hexo-renderer-marked": "*",
+    "hexo-renderer-stylus": "*"
   }
 }
