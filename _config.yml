@@ -87,7 +87,7 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: ftp
-  host:ryan
-  user:ryan
-  root:root@ryanamundson.me:/home/ryan/blog
+  type: github
+  branch: master
+  repo: https://github.com/ryanjustin/blog.git
+  message: "site update"
